@@ -16,7 +16,7 @@ import os
 import sys
 
 # ─── CONFIG ───────────────────────────────────────────────────────────────────
-CSV_FILE        = "/Users/gupta/Downloads/4W_RENEWAL_EXPIRY_whatsapp_T16_2026-03-05-1_final 2.csv"
+CSV_FILE        = "/Users/gupta/Documents/Phonepe/pp.csv"
 MEDIA_COL       = "MediaUrl"
 MAKE_COL        = "MakeName"
 MODEL_COL       = "ModelName"
